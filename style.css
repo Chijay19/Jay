@@ -16,8 +16,8 @@ body{
     height: 45%;
     position: relative;
     border-radius: 50%;
-    left: 40.8rem;
-    top: 10.5rem;
+    left: 45rem;
+    top: 9rem;
 }
 .image:hover{
     box-shadow: 0 0 50px white;
@@ -77,12 +77,12 @@ nav ul li a:hover::after{
     color: whitesmoke;
 }
 .header-text h1 span{
-    color: aqua;
+    color: white;
 }
 #about{
     position: relative;
     top: 25rem;
-    left: 5rem;
+    left: 7rem;
     color: aqua;
 }
 .profile2{
