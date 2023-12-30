@@ -6,7 +6,7 @@
 }
 body{
     min-height: 100vh;
-    background-image: url('images/goods.jpg');
+    background-image: url('images/A.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-color: black;
@@ -20,7 +20,7 @@ body{
     top: 10.5rem;
 }
 .image:hover{
-    box-shadow: 0 0 50px purple;
+    box-shadow: 0 0 50px white;
 }
 .container{
     position: relative;
