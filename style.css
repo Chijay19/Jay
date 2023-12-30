@@ -68,7 +68,7 @@ nav ul li a:hover::after{
     width: 50%;
 }
 .header-text{
-    margin-top: 2%;
+    margin-top: 3%;
     font-size: 30px;
     color: gray;
 }
@@ -81,7 +81,7 @@ nav ul li a:hover::after{
 }
 #about{
     position: relative;
-    top: 25rem;
+    top: 20rem;
     left: 7rem;
     color: white;
 }
